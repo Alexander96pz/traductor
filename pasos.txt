@@ -1,0 +1,7 @@
+ir a carpeta del proyecto
+cd traductor/
+iniciar entorno virtual
+source entorno/bin/activate
+empezar app
+python manage.py runserver
+abrir enlace 127.0.0.1:8000
